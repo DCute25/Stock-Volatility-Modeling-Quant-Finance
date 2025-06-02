@@ -1,6 +1,6 @@
 # NVIDIA Volatility Modeling (2018–2024)
 
-This project was completed as part of the course **Quantitative Methods for Financial Markets**, where I analyzed the volatility of NVIDIA (NVDA) stock using time series econometric models in R.
+This project was completed as part of the course **Quantitative Methods for Financial Markets** by **Monash University**, where I analyzed the volatility of NVIDIA (NVDA) stock using time series econometric models in R.
 
 ## Project Overview
 
