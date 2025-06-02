@@ -20,7 +20,7 @@ This project was completed as part of the course **Quantitative Methods for Fina
 
 - `nvidia_data.csv` – Cleaned dataset of NVIDIA daily stock prices  
 - `volatility_modeling.R` – Core R script implementing the models and analysis  
-- `report_summary.pdf` – Brief summary of the methodology and results (optional, if you have it)
+- `vola_modeling_final_report.pdf` – Brief summary of the methodology and results (optional, if you have it)
 
 ## Key Takeaways
 
