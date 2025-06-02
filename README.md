@@ -16,7 +16,7 @@ This project was completed as part of the course **Quantitative Methods for Fina
 - `rugarch`, `PerformanceAnalytics`, `quantmod`, `zoo`, and other relevant R packages
 - **Financial econometrics**, **risk modeling**, and **statistical testing**
 
-##Files
+## Files
 
 - `nvidia_data.csv` – Cleaned dataset of NVIDIA daily stock prices  
 - `volatility_modeling.R` – Core R script implementing the models and analysis  
